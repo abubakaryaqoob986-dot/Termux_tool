@@ -1,0 +1,26 @@
+{
+    "status": "ON",
+    "keys": [
+        {
+            "key": "CHEN_TOOL2",
+            "expiry": "2027-07-30",
+            "type": "free",
+            "max_devices": 500,
+            "devices": {}
+        },
+        {
+            "key": "CHENTOOLVIP99",
+            "expiry": "2026-09-30",
+            "type": "Premium",
+            "max_devices": 1,
+            "devices": {}
+        },
+        {
+            "key": "jaan",
+            "expiry": "2029-06-30",
+            "type": "Premium",
+            "max_devices": 1,
+            "devices": {}
+        }
+    ]
+}
